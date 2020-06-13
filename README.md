@@ -2,14 +2,8 @@
 
 A Simple website to find Recycle points in your country.
 
-technologies used:
+Technologies used:
 
-#HTML 
+#HTML #CSS #Node #Javascrpit #SQLite
 
-#CSS
-
-#Node
-
-#Javascrpit
-
-#SQLite
+![alt text](https://i.ibb.co/PMPXNp8/index.jpg)
